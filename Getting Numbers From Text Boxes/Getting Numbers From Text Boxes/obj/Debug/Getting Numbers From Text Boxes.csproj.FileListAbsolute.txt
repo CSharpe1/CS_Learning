@@ -1,0 +1,10 @@
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\obj\Debug\Getting_Numbers_From_Text_Boxes.Form1.resources
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\obj\Debug\Getting_Numbers_From_Text_Boxes.Properties.Resources.resources
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\obj\Debug\Getting Numbers From Text Boxes.csproj.GenerateResource.cache
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\obj\Debug\Getting Numbers From Text Boxes.csproj.CoreCompileInputs.cache
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\bin\Debug\Getting Numbers From Text Boxes.exe.config
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\bin\Debug\Getting Numbers From Text Boxes.exe
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\bin\Debug\Getting Numbers From Text Boxes.pdb
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\obj\Debug\Getting Numbers From Text Boxes.exe
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\obj\Debug\Getting Numbers From Text Boxes.pdb
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\C#\Getting Numbers From Text Boxes\Getting Numbers From Text Boxes\obj\Debug\Getting Numbers From Text Boxes.csprojAssemblyReference.cache
